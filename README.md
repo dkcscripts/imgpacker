@@ -1,6 +1,6 @@
 # imgpacker.py
 
-Embed **encrypted archives inside PNG images** using LSB steganography. Single Python script packs, encrypts, and hides data in pixels—no trace in image metadata.
+Embed **encrypted archives inside PNG images** using LSB steganography. Single Python script packs, encrypts, and hides data in pixels-no trace in image metadata.
 
 Run on target → extract image → auto-decrypts and unpacks. Combines tar + xz + GPG AES-256 encryption with **PNG LSB steganography** (2 bits per pixel).
 

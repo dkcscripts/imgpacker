@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-imgpacker — embed encrypted archives inside PNG images
+imgpacker - embed encrypted archives inside PNG images
 
 Usage:
   imgpacker.py pack -o <output.png> <file/dir> [file/dir ...]
